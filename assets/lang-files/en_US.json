@@ -1,0 +1,90 @@
+{
+  "maxlength": "Value is too long",
+  "minlength": "Value is too short",
+  "required": "Value is required",
+  "formAdd": {
+    "name": "Customer name"
+  },
+  "addCustomerIcon": "./assets/icons/addCustomer.svg",
+  "addCustomer": "New Customer",
+  "cv": {
+    "ngsoft": {
+      "year": "2018 - Today",
+      "workPlace": "NGSoft",
+      "positionDescription": "Fullstack developer for alert web & classified systems",
+      "rows": {
+        "1": "Developed using Angular 8+, HTML5,CSS3,SCSS.",
+        "2": "Good knowledge of Angular including Pipes, Observables, EventEmitters, Forms,Material and more.",
+        "3": "Developed Web systems using Angular, NodeJS and websockets to bring real-time data and implement in charts and tables in UI",
+        "4": "Use of Docker,Kubernetes in a complicated system.",
+        "5": "Familiar with many libraries, from maps (Cesium,Leaflet) to websockets (SignalR,Stompjs)",
+        "6": "Use of jira for bugs, tasks, sprints and projects follow-up.",
+        "7": "Use of terminals (mobaXterm,Xshell) for running logs and services.",
+        "8": "Developed statistic tools in REST API using couchBase and ElasticSearch in nodeJS and angular.",
+        "9": "Wrote queries in SQL, Logstash and a bit of python."
+      }
+    },
+    "evigilo": {
+      "year": "2017 - 2018",
+      "workPlace": "eVigilo",
+      "positionDescription": "Manual & Automation QA for alert web apps",
+      "rows": {
+        "1":"Sanity, Functionality and Regression test planning in java." ,
+        "2": "UI and Unit testing using JUnit, JSystem, Xpath, Selenium.",
+        "3": "System testing and use of Xshell, TestLink, Jira.",
+        "4": "Developed automation tests for a complexed alert web system in Java using Selenium",
+        "5": "Executed UI and functionality tests ( automatic and manual )"
+      }
+    },
+    "kzatAheret": {
+      "year": "2015",
+      "workPlace": "Kzat Aheret",
+      "positionDescription": "Digital Print Graphic Designer",
+      "rows": {
+        "1":"Use of Photoshop, Illustrator and inDesign for print."
+      }
+    },
+    "yollesSigns": {
+      "year": "2012-2014",
+      "workPlace": "Yolles Signs",
+      "positionDescription": "Main Graphic Designer",
+      "rows": {
+        "1":"Development of the business website (javascript, css, html)" ,
+        "2": "Development , marketing and design of signs using Photoshop & Illustrator."
+      }
+    },
+    "service": {
+      "year": "2008 - 2011",
+      "workPlace": "IDF",
+      "positionDescription": "Combat Medic at the Combat Engineering Corps",
+      "rows": {
+        "1": "As a medic, I had the responsibility of maintaining the battalion's health routine and exercising medics."
+      }
+    },
+    "languages":{
+      "title": "Languages",
+      "1":{
+        "title":"Hebrew",
+        "description":"Native, speaking, writing and reading."
+      },
+      "2": {
+        "title": "English",
+        "description": "Very High, speaking, writing and reading."
+      }
+    },
+    "character": {
+      "title": "Character",
+      "description": {
+        "1": "Great people skill, high work ethics, responsible, dedicated and assertive.",
+        "2": "Eager to learn it all!"
+      }
+    },
+    "dotTooltip": {
+      "education": "Education",
+      "ngsoft": "NGSoft",
+      "evigilo": "eVigilo",
+      "earlier": "Earlier experience",
+      "serviceChar": "Service & Character"
+    }
+  }
+}
