@@ -13,13 +13,13 @@
       "workPlace": "NGSoft",
       "positionDescription": "Fullstack developer for alert web & classified systems",
       "rows": {
-        "1": "Developed using Angular 8+, HTML5,CSS3,SCSS.",
-        "2": "Good knowledge of Angular including Pipes, Observables, EventEmitters, Forms,Material and more.",
+        "1": "Developed using Angular 8+, HTML5, CSS3, SCSS.",
+        "2": "Good knowledge of Angular including Pipes, Observables, EventEmitters, Forms, Material and more.",
         "3": "Developed Web systems using Angular, NodeJS and websockets to bring real-time data and implement in charts and tables in UI",
-        "4": "Use of Docker,Kubernetes in a complicated system.",
-        "5": "Familiar with many libraries, from maps (Cesium,Leaflet) to websockets (SignalR,Stompjs)",
+        "4": "Use of Docker, Kubernetes in a complicated system.",
+        "5": "Familiar with many libraries, from maps (Cesium,Leaflet) to websockets (SignalR, Stompjs)",
         "6": "Use of jira for bugs, tasks, sprints and projects follow-up.",
-        "7": "Use of terminals (mobaXterm,Xshell) for running logs and services.",
+        "7": "Use of terminals (mobaXterm, Xshell) for running logs and services.",
         "8": "Developed statistic tools in REST API using couchBase and ElasticSearch in nodeJS and angular.",
         "9": "Wrote queries in SQL, Logstash and a bit of python."
       }
@@ -50,7 +50,7 @@
       "positionDescription": "Main Graphic Designer",
       "rows": {
         "1":"Development of the business website (javascript, css, html)" ,
-        "2": "Development , marketing and design of signs using Photoshop & Illustrator."
+        "2": "Development, marketing and design of signs using Photoshop & Illustrator."
       }
     },
     "service": {
