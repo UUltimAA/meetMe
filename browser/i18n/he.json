@@ -1,0 +1,136 @@
+{
+  "NAV": {
+    "HOME": "ראשי",
+    "CV": "קורות חיים",
+    "LOGO": "אוראל ירון",
+    "EMAIL": "אימייל",
+    "FACEBOOK": "פייסבוק",
+    "INSTAGRAM": "אינסטגרם"
+  },
+  "HOME": {
+    "GREETING": "היי, אני",
+    "NAME": "אוראל ירון",
+    "SUBTITLE": "מפתח תוכנה · מפתח ב-Unreal Engine · גיימר",
+    "ABOUT_TITLE": "קצת עליי",
+    "ABOUT_TEXT": "מפתח נלהב עם אהבה לבניית חוויות סוחפות. מיצירת אפליקציות ווב מודרניות ונקיות ועד עיצוב עולמות ב-Unreal Engine 5 — אני מביא רעיונות לחיים דרך קוד ויצירתיות.",
+    "SHOWCASE_TITLE": "תצוגת Unreal Engine 5",
+    "SHOWCASE_INTRO": "מבחר סביבות ומכניקות שבניתי ב-UE5."
+  },
+  "CV": {
+    "TITLE": "קורות חיים",
+    "SUMMARY": "מפתח מנוסה עם התמחות במודרניזציה של מערכות Legacy ובניית מערכות מורכבות מבוססות Angular. ניסיון מוכח בהובלת מעבר טכנולוגי, עבודה עם ארכיטקטורות מתקדמות (Signals, Reactive Forms) ופיתוח מערכות בזמן אמת. בעל חשיבה מערכתית, יכולת למידה גבוהה ותרומה לצוותים טכנולוגיים.",
+    "CONTACT_EMAIL": "orel.yaron@gmail.com",
+    "CONTACT_PHONE": "054-8112307",
+
+    "EXPERIENCE": "ניסיון מקצועי",
+    "EXP_CAL_PERIOD": "2024–2026",
+    "EXP_CAL_COMPANY": "כאל (דרך אמן מחשבים)",
+    "EXP_CAL_ROLE": "Senior Frontend Developer",
+    "EXP_CAL_1": "הובלת שדרוג מערכות Legacy מ-Angular 1 ל-Angular 21",
+    "EXP_CAL_2": "תכנון ופיתוח טפסים מורכבים מבוססי Reactive Forms ו-Signals",
+    "EXP_CAL_3": "שימוש מתקדם ב-State Management ויכולות Angular מודרניות",
+    "EXP_CAL_4": "עבודה עם Azure לניהול PRs ותהליכי פיתוח",
+    "EXP_CAL_5": "אינטגרציה עם מערכות לוגים ו-QA פנים ארגוניות",
+    "EXP_CAL_6": "עבודה אג'ילית עם Jira לניהול ספרינטים ומשימות",
+
+    "EXP_NGSOFT_PERIOD": "2018–2024",
+    "EXP_NGSOFT_COMPANY": "NGSoft",
+    "EXP_NGSOFT_ROLE": "Fullstack Developer",
+    "EXP_NGSOFT_1": "פיתוח מערכות צד לקוח ב-Angular 8+ תוך דגש על ביצועים וסקיילביליות",
+    "EXP_NGSOFT_2": "בניית מערכות זמן אמת עם WebSockets ו-Node.js",
+    "EXP_NGSOFT_3": "פיתוח REST APIs ועבודה עם ElasticSearch ו-Couchbase",
+    "EXP_NGSOFT_4": "כתיבת סקריפטים (Python, SQL, Logstash)",
+    "EXP_NGSOFT_5": "פיתוח בדיקות אוטומטיות (Java, Selenium)",
+    "EXP_NGSOFT_6": "הדרכת צוותים והטמעת תהליכי עבודה",
+
+    "EXP_EVIGILO_PERIOD": "2017–2018",
+    "EXP_EVIGILO_COMPANY": "אויגילו",
+    "EXP_EVIGILO_ROLE": "Automation Developer",
+    "EXP_EVIGILO_1": "פיתוח בדיקות אוטומטיות למערכות מבוזרות (Java, Selenium)",
+    "EXP_EVIGILO_2": "עבודה עם כלי בדיקות מתקדמים (JUnit, XPath, Jira)",
+
+    "EXP_EARLIER_TITLE": "לפני 2017",
+    "EXP_EARLIER_1": "קצת אחרת – גרפיקאי בדפוס דיגיטלי, שימוש בתוכנות עריכה ועיצוב עבודות ללקוחות.",
+    "EXP_EARLIER_2": "יולס שלטים - מעצב ויצרן שלטים, עיצוב אתר העסק.",
+
+    "SKILLS": "מיומנויות טכניות",
+    "SKILLS_LABEL_FRONTEND": "טכנולוגיות פרונט",
+    "SKILLS_LABEL_ARCHITECTURE": "ארכיטקטורות",
+    "SKILLS_LABEL_BACKEND": "טכנולוגיות צד שרת",
+    "SKILLS_LABEL_DEVOPS": "דב-אופס וכלי עבודה",
+    "SKILLS_LABEL_TESTING": "כלי בדיקה",
+    "SKILLS_LABEL_OTHER": "מיומנויות נוספות",
+
+    "SKILL_ANGULAR": "פריימוורק מודרני לבניית אפליקציות ווב מתקדמות",
+    "SKILL_RXJS": "ספריית תכנות ראקטיבית לניהול זרימות אסינכרוניות",
+    "SKILL_TYPESCRIPT": "שפת JavaScript מורחבת עם טיפוסים לפיתוח יציב וסקיילבילי",
+    "SKILL_JAVASCRIPT": "שפת הליבה של האינטרנט",
+    "SKILL_HTML5": "תקן סימון מודרני למבנה תוכן ווב",
+    "SKILL_CSS3": "שפת עיצוב לעיצוב ממשקים רספונסיביים",
+    "SKILL_SASS": "פרי-פרוססור CSS לכתיבת סגנונות תחזוקיים",
+
+    "SKILL_SIGNALS": "מנגנון ראקטיביות מדויק של Angular לניהול מצבים",
+    "SKILL_REACTIVE_FORMS": "גישת Angular מונחית-מודל לניהול טפסים",
+    "SKILL_STATE_MGMT": "דפוסים לניהול מצב אפליקציה מורכב בצורה צפויה",
+    "SKILL_REALTIME": "ארכיטקטורה לעדכוני נתונים בזמן אמת דרך WebSockets",
+
+    "SKILL_CSHARP": "שפת תכנות מונחית-עצמים לפלטפורמת .NET",
+    "SKILL_JAVA": "שפה ארגונית לצד שרת ואוטומציה",
+    "SKILL_NODEJS": "סביבת ריצה של JavaScript לצד שרת",
+    "SKILL_REST": "סגנון ארכיטקטוני לתכנון ממשקי API",
+    "SKILL_POSTGRESQL": "בסיס נתונים רלציוני מתקדם בקוד פתוח",
+    "SKILL_ELASTICSEARCH": "מנוע חיפוש ואנליטיקה מבוזר",
+    "SKILL_LOGSTASH": "צינור עיבוד נתונים בצד שרת",
+    "SKILL_COUCHBASE": "בסיס נתונים NoSQL מבוזר",
+
+    "SKILL_AZURE": "פלטפורמת הענן של Microsoft ל-CI/CD ו-DevOps",
+    "SKILL_JIRA": "ניהול פרויקטים אג'יליים ומעקב משימות",
+    "SKILL_GIT": "מערכת בקרת גרסאות מבוזרת",
+    "SKILL_CICD": "תהליכי אינטגרציה ופריסה רציפים",
+    "SKILL_KUBERNETES": "פלטפורמה לתזמור קונטיינרים בקנה מימדים",
+    "SKILL_DOCKER": "פלטפורמת קונטיינרים לסביבות אחידות",
+
+    "SKILL_SELENIUM": "פריימוורק אוטומציה לבדיקות דפדפן",
+    "SKILL_JAVA_AUTO": "אוטומציה לבדיקות באמצעות אקוסיסטם Java",
+    "SKILL_UI_TESTING": "בדיקות ממשק משתמש מקצה לקצה",
+
+    "SKILL_UNREAL": "מנוע המשחקים של Epic Games ליצירת חוויות תלת-מימדיות",
+    "SKILL_PHOTOSHOP": "כלי עריכת תמונות ועיצוב מוביל בתעשייה",
+    "SKILL_ILLUSTRATOR": "עורך גרפיקה וקטורית ללוגואים ואילוסטרציות",
+
+    "EDUCATION": "השכלה",
+    "EDU_1": "פיתוח Web (לימוד עצמי) – JavaScript, Angular, Node.js",
+    "EDU_2": "קורס NET. – ג'ון ברייס",
+    "EDU_3": "קורס עיצוב גרפי – ג'ון ברייס",
+
+    "LANGUAGES": "שפות",
+    "LANG_HE": "עברית – שפת אם",
+    "LANG_EN": "אנגלית – רמה גבוהה",
+
+    "SERVICE": "שירות צבאי",
+    "SERVICE_PERIOD": "2008–2011",
+    "SERVICE_ROLE": "חובש קרבי בגדוד 601 בהנדסה",
+    "SERVICE_DESC": "אחריות על ניהול צוות החובשים ושגרת הרפואה הפלוגתית.",
+
+    "CHARACTER": "תכונות",
+    "CHARACTER_DESC": "יחסי אנוש מעולים, יכולת למידה עצמית גבוהה, אחראי ובעל מוסר עבודה גבוה, מסור ומחפש את האתגר הבא."
+  },
+  "PROJECTS": {
+    "CAVE_TOUR": {
+      "TITLE": "סיור במערה",
+      "DESCRIPTION": "סביבת מערה תת-קרקעית עם תאורה דינמית וערפל אטמוספרי."
+    },
+    "ISLAND_LANDSCAPE": {
+      "TITLE": "נוף אי סלעי",
+      "DESCRIPTION": "אי סלעי עם שטח עולם פתוח, צמחייה, רינדור אוקיינוס וסירה שכוחה."
+    },
+    "BEACH_ENVIRONMENT": {
+      "TITLE": "סביבת חוף",
+      "DESCRIPTION": "סצנת חוף שטופת שמש עם השתקפויות Ray Tracing ותאורה גלובלית של Lumen."
+    }
+  },
+  "TOOLS": {
+    "TITLE": "כלים פנימיים",
+    "INFO": "אזור זה מיועד לטפסי ראיונות וכלים פנימיים."
+  }
+}
