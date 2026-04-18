@@ -1,0 +1,136 @@
+{
+  "NAV": {
+    "HOME": "Home",
+    "CV": "CV",
+    "LOGO": "Orel Yaron",
+    "EMAIL": "Email",
+    "FACEBOOK": "Facebook",
+    "INSTAGRAM": "Instagram"
+  },
+  "HOME": {
+    "GREETING": "Hey, I'm",
+    "NAME": "Orel Yaron",
+    "SUBTITLE": "Developer · Unreal Engine Creator · Gamer Extraordinaire",
+    "ABOUT_TITLE": "About Me",
+    "ABOUT_TEXT": "A passionate developer with a love for building immersive experiences. From crafting clean, modern web applications to designing worlds in Unreal Engine 5 — I bring ideas to life through code and creativity.",
+    "SHOWCASE_TITLE": "Unreal Engine 5 Showcase",
+    "SHOWCASE_INTRO": "A selection of environments and mechanics I've built in UE5."
+  },
+  "CV": {
+    "TITLE": "Curriculum Vitae",
+    "SUMMARY": "Senior Frontend Developer specializing in modernizing legacy systems and building scalable Angular applications. Strong experience leading migrations, implementing advanced architectures (Signals, Reactive Forms) and developing real-time systems. Fast learner with a system-level mindset and strong ownership.",
+    "CONTACT_EMAIL": "orel.yaron@gmail.com",
+    "CONTACT_PHONE": "+972-54-8112307",
+
+    "EXPERIENCE": "Experience",
+    "EXP_CAL_PERIOD": "2024–2026",
+    "EXP_CAL_COMPANY": "CAL (via Aman Computers)",
+    "EXP_CAL_ROLE": "Senior Frontend Developer",
+    "EXP_CAL_1": "Led migration of legacy systems from Angular 1 to Angular 21",
+    "EXP_CAL_2": "Designed and developed complex Reactive & Signal-based forms",
+    "EXP_CAL_3": "Implemented modern Angular architecture and state management patterns",
+    "EXP_CAL_4": "Worked with Azure for PR workflows and development lifecycle",
+    "EXP_CAL_5": "Integrated internal logging and QA systems",
+    "EXP_CAL_6": "Agile workflow using Jira (sprints, bugs, task tracking)",
+
+    "EXP_NGSOFT_PERIOD": "2018–2024",
+    "EXP_NGSOFT_COMPANY": "NGSoft",
+    "EXP_NGSOFT_ROLE": "Fullstack Developer",
+    "EXP_NGSOFT_1": "Built scalable frontend systems using Angular (8+) with focus on performance",
+    "EXP_NGSOFT_2": "Developed real-time applications using WebSockets and Node.js",
+    "EXP_NGSOFT_3": "Designed REST APIs and worked with ElasticSearch & Couchbase",
+    "EXP_NGSOFT_4": "Wrote scripts (Python, SQL, Logstash)",
+    "EXP_NGSOFT_5": "Developed automation tests using Java & Selenium",
+    "EXP_NGSOFT_6": "Mentored team members and contributed to engineering practices",
+
+    "EXP_EVIGILO_PERIOD": "2017–2018",
+    "EXP_EVIGILO_COMPANY": "eVigilo",
+    "EXP_EVIGILO_ROLE": "Automation Developer",
+    "EXP_EVIGILO_1": "Developed automation tests for distributed web systems (Java, Selenium)",
+    "EXP_EVIGILO_2": "Worked with JUnit, XPath, Jira and testing frameworks",
+
+    "EXP_EARLIER_TITLE": "Before 2017",
+    "EXP_EARLIER_1": "\"Kzat Aheret\" - Digital Print Graphic Designer",
+    "EXP_EARLIER_2": "\"Yoles Signs\" - Main Graphic Designer (signs and web)",
+
+    "SKILLS": "Technical Skills",
+    "SKILLS_LABEL_FRONTEND": "Frontend",
+    "SKILLS_LABEL_ARCHITECTURE": "Architecture",
+    "SKILLS_LABEL_BACKEND": "Backend & Tools",
+    "SKILLS_LABEL_DEVOPS": "DevOps & Workflow",
+    "SKILLS_LABEL_TESTING": "Testing",
+    "SKILLS_LABEL_OTHER": "Other cool skills",
+
+    "SKILL_ANGULAR": "A modern framework for building cutting-edge web applications",
+    "SKILL_RXJS": "Reactive Extensions library for composing asynchronous streams",
+    "SKILL_TYPESCRIPT": "Typed superset of JavaScript for scalable application development",
+    "SKILL_JAVASCRIPT": "The core language of the web",
+    "SKILL_HTML5": "Modern markup standard for structuring web content",
+    "SKILL_CSS3": "Style sheet language for designing responsive layouts",
+    "SKILL_SASS": "CSS preprocessor for writing maintainable stylesheets",
+
+    "SKILL_SIGNALS": "Angular's fine-grained reactivity primitive for state management",
+    "SKILL_REACTIVE_FORMS": "Angular's model-driven approach to handling form inputs",
+    "SKILL_STATE_MGMT": "Patterns for managing complex application state predictably",
+    "SKILL_REALTIME": "Architecture for live data updates via WebSockets and event streams",
+
+    "SKILL_CSHARP": "Object-oriented language for .NET platform development",
+    "SKILL_JAVA": "Enterprise-grade language for backend and automation",
+    "SKILL_NODEJS": "JavaScript runtime for building server-side applications",
+    "SKILL_REST": "Architectural style for designing networked APIs",
+    "SKILL_POSTGRESQL": "Advanced open-source relational database",
+    "SKILL_ELASTICSEARCH": "Distributed search and analytics engine",
+    "SKILL_LOGSTASH": "Server-side data processing pipeline",
+    "SKILL_COUCHBASE": "Distributed NoSQL cloud database",
+
+    "SKILL_AZURE": "Microsoft's cloud computing platform for CI/CD and DevOps",
+    "SKILL_JIRA": "Agile project management and issue tracking",
+    "SKILL_GIT": "Distributed version control system",
+    "SKILL_CICD": "Continuous Integration and Deployment pipelines",
+    "SKILL_KUBERNETES": "Container orchestration platform for scaling applications",
+    "SKILL_DOCKER": "Containerization platform for consistent environments",
+
+    "SKILL_SELENIUM": "Browser automation framework for end-to-end testing",
+    "SKILL_JAVA_AUTO": "Test automation using the Java ecosystem",
+    "SKILL_UI_TESTING": "End-to-end user interface validation and quality assurance",
+
+    "SKILL_UNREAL": "Epic Games' engine for creating immersive 3D experiences",
+    "SKILL_PHOTOSHOP": "Industry-standard image editing and design tool",
+    "SKILL_ILLUSTRATOR": "Vector graphics editor for logos and illustrations",
+
+    "EDUCATION": "Education",
+    "EDU_1": "Self-taught Web Development (JavaScript, Angular, Node.js)",
+    "EDU_2": ".NET Development Course – John Bryce",
+    "EDU_3": "Graphic Design Course – John Bryce",
+
+    "LANGUAGES": "Languages",
+    "LANG_HE": "Hebrew – Native",
+    "LANG_EN": "English – Fluent",
+
+    "SERVICE": "Service",
+    "SERVICE_PERIOD": "2008–2011",
+    "SERVICE_ROLE": "Combat Medic at \"601\" battalion in the Combat Engineering Corps.",
+    "SERVICE_DESC": "Had the responsibility of maintaining the battalion's health routine and exercising medics.",
+
+    "CHARACTER": "Character",
+    "CHARACTER_DESC": "Great people skill, high work ethics, responsible, dedicated and assertive."
+  },
+  "PROJECTS": {
+    "CAVE_TOUR": {
+      "TITLE": "Cave Tour",
+      "DESCRIPTION": "An underground cave environment showcasing dynamic lighting and atmospheric fog."
+    },
+    "ISLAND_LANDSCAPE": {
+      "TITLE": "Island Landscape",
+      "DESCRIPTION": "A tropical island with open-world terrain, vegetation and ocean rendering."
+    },
+    "BEACH_ENVIRONMENT": {
+      "TITLE": "Beach Environment",
+      "DESCRIPTION": "A sunlit coastal scene with ray-traced reflections and Lumen global illumination."
+    }
+  },
+  "TOOLS": {
+    "TITLE": "Internal Tools",
+    "INFO": "This area is for interview task forms and internal utilities."
+  }
+}
