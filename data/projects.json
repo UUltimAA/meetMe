@@ -1,0 +1,38 @@
+[
+  {
+    "title": "PROJECTS.CAVE_TOUR.TITLE",
+    "description": "PROJECTS.CAVE_TOUR.DESCRIPTION",
+    "imageUrl": "assets/projects/ScreenShot00001.png",
+    "tags": ["UE5", "Lumen", "Nanite", "Environment"],
+    "media": [
+      { "type": "video", "url": "assets/projects/caveTour.mp4", "alt": "Cave environment tour" },
+      { "type": "image", "url": "assets/projects/ScreenShot00001.png", "alt": "Cave — light shaft with tree" },
+      { "type": "image", "url": "assets/projects/ScreenShot00002.png", "alt": "Cave — stairs and torches" },
+      { "type": "image", "url": "assets/projects/ScreenShot00003.png", "alt": "Cave — wide angle view" }
+    ]
+  },
+  {
+    "title": "PROJECTS.ISLAND_LANDSCAPE.TITLE",
+    "description": "PROJECTS.ISLAND_LANDSCAPE.DESCRIPTION",
+    "imageUrl": "assets/projects/island-02.png",
+    "tags": ["UE5", "Nanite", "World Partition", "Environment"],
+    "media": [
+      { "type": "video", "url": "assets/projects/myIsland.mp4", "alt": "Island landscape overview" },
+      { "type": "image", "url": "assets/projects/island-01.png", "alt": "Island — shoreline with boat" },
+      { "type": "image", "url": "assets/projects/island-02.png", "alt": "Island — aerial view" },
+      { "type": "image", "url": "assets/projects/island-03.png", "alt": "Island — beached boat close-up" }
+    ]
+  },
+  {
+    "title": "PROJECTS.BEACH_ENVIRONMENT.TITLE",
+    "description": "PROJECTS.BEACH_ENVIRONMENT.DESCRIPTION",
+    "imageUrl": "assets/projects/beach-01.png",
+    "tags": ["UE5", "Lumen", "Ray Tracing", "Environment"],
+    "media": [
+      { "type": "video", "url": "assets/projects/beach720.mp4", "alt": "Beach environment flythrough" },
+      { "type": "image", "url": "assets/projects/beach-01.png", "alt": "Beach — golden sunset with palms" },
+      { "type": "image", "url": "assets/projects/beach-02.png", "alt": "Beach — golden sunset" },
+      { "type": "image", "url": "assets/projects/beach-03.png", "alt": "Beach — shoreline with palms" }
+    ]
+  }
+]

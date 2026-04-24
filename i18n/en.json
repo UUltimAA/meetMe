@@ -61,6 +61,7 @@
     "SKILLS_LABEL_ARCHITECTURE": "Architecture",
     "SKILLS_LABEL_BACKEND": "Backend & Tools",
     "SKILLS_LABEL_DEVOPS": "DevOps & Workflow",
+    "SKILLS_LABEL_DATABASES": "Databases",
     "SKILLS_LABEL_TESTING": "Testing",
     "SKILLS_LABEL_OTHER": "Other cool skills",
 
@@ -92,6 +93,10 @@
     "SKILL_CICD": "Continuous Integration and Deployment pipelines",
     "SKILL_KUBERNETES": "Container orchestration platform for scaling applications",
     "SKILL_DOCKER": "Containerization platform for consistent environments",
+    "SKILL_GITHUB_ACTIONS": "Automated CI/CD workflows directly in GitHub",
+    "SKILL_GITHUB_PAGES": "Static site hosting directly from GitHub repositories",
+    "SKILL_CURSOR": "AI-powered code editor for intelligent development",
+    "SKILL_COPILOT": "AI pair programmer for code suggestions and assistance",
 
     "SKILL_SELENIUM": "Browser automation framework for end-to-end testing",
     "SKILL_JAVA_AUTO": "Test automation using the Java ecosystem",
@@ -100,6 +105,10 @@
     "SKILL_UNREAL": "Epic Games' engine for creating immersive 3D experiences",
     "SKILL_PHOTOSHOP": "Industry-standard image editing and design tool",
     "SKILL_ILLUSTRATOR": "Vector graphics editor for logos and illustrations",
+
+    "SKILL_SQL": "Structured Query Language for relational data management",
+    "SKILL_MONGO": "Document-oriented NoSQL database for flexible data models",
+    "SKILL_MYSQL": "Popular open-source relational database management system",
 
     "EDUCATION": "Education",
     "EDU_1": "Self-taught Web Development (JavaScript, Angular, Node.js)",

@@ -1,0 +1,75 @@
+[
+  {
+    "labelKey": "CV.SKILLS_LABEL_FRONTEND",
+    "skills": [
+      { "name": "Angular (1–21)", "descKey": "CV.SKILL_ANGULAR" },
+      { "name": "RxJS", "descKey": "CV.SKILL_RXJS" },
+      { "name": "TypeScript", "descKey": "CV.SKILL_TYPESCRIPT" },
+      { "name": "JavaScript", "descKey": "CV.SKILL_JAVASCRIPT" },
+      { "name": "HTML5", "descKey": "CV.SKILL_HTML5" },
+      { "name": "CSS3", "descKey": "CV.SKILL_CSS3" },
+      { "name": "SASS", "descKey": "CV.SKILL_SASS" }
+    ]
+  },
+  {
+    "labelKey": "CV.SKILLS_LABEL_ARCHITECTURE",
+    "skills": [
+      { "name": "Signals", "descKey": "CV.SKILL_SIGNALS" },
+      { "name": "Reactive Forms", "descKey": "CV.SKILL_REACTIVE_FORMS" },
+      { "name": "State Management", "descKey": "CV.SKILL_STATE_MGMT" },
+      { "name": "Real-time Systems", "descKey": "CV.SKILL_REALTIME" }
+    ]
+  },
+  {
+    "labelKey": "CV.SKILLS_LABEL_BACKEND",
+    "skills": [
+      { "name": "C#", "descKey": "CV.SKILL_CSHARP" },
+      { "name": "Java", "descKey": "CV.SKILL_JAVA" },
+      { "name": "Node.js", "descKey": "CV.SKILL_NODEJS" },
+      { "name": "REST APIs", "descKey": "CV.SKILL_REST" },
+      { "name": "ElasticSearch", "descKey": "CV.SKILL_ELASTICSEARCH" },
+      { "name": "Logstash", "descKey": "CV.SKILL_LOGSTASH" }
+    ]
+  },
+  {
+    "labelKey": "CV.SKILLS_LABEL_DEVOPS",
+    "skills": [
+      { "name": "Azure", "descKey": "CV.SKILL_AZURE" },
+      { "name": "Jira", "descKey": "CV.SKILL_JIRA" },
+      { "name": "Git", "descKey": "CV.SKILL_GIT" },
+      { "name": "Github Actions", "descKey": "CV.SKILL_GITHUB_ACTIONS" },
+      { "name": "Github Pages", "descKey": "CV.SKILL_GITHUB_PAGES" },
+      { "name": "CI/CD concepts", "descKey": "CV.SKILL_CICD" },
+      { "name": "Kubernetes", "descKey": "CV.SKILL_KUBERNETES" },
+      { "name": "Docker", "descKey": "CV.SKILL_DOCKER" },
+      { "name": "Cursor", "descKey": "CV.SKILL_CURSOR" },
+      { "name": "Copilot", "descKey": "CV.SKILL_COPILOT" }
+    ]
+  },
+  {
+    "labelKey": "CV.SKILLS_LABEL_DATABASES",
+    "skills": [
+      { "name": "SQL", "descKey": "CV.SKILL_SQL" },
+      { "name": "Mongo", "descKey": "CV.SKILL_MONGO" },
+      { "name": "Couchbase", "descKey": "CV.SKILL_COUCHBASE" },
+      { "name": "MySQL", "descKey": "CV.SKILL_MYSQL" },
+      { "name": "PostgreSQL", "descKey": "CV.SKILL_POSTGRESQL" }
+    ]
+  },
+  {
+    "labelKey": "CV.SKILLS_LABEL_TESTING",
+    "skills": [
+      { "name": "Selenium", "descKey": "CV.SKILL_SELENIUM" },
+      { "name": "Java Automation", "descKey": "CV.SKILL_JAVA_AUTO" },
+      { "name": "UI Testing", "descKey": "CV.SKILL_UI_TESTING" }
+    ]
+  },
+  {
+    "labelKey": "CV.SKILLS_LABEL_OTHER",
+    "skills": [
+      { "name": "Unreal 5+", "descKey": "CV.SKILL_UNREAL" },
+      { "name": "Photoshop", "descKey": "CV.SKILL_PHOTOSHOP" },
+      { "name": "Illustrator", "descKey": "CV.SKILL_ILLUSTRATOR" }
+    ]
+  }
+]

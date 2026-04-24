@@ -61,6 +61,7 @@
     "SKILLS_LABEL_ARCHITECTURE": "ארכיטקטורות",
     "SKILLS_LABEL_BACKEND": "טכנולוגיות צד שרת",
     "SKILLS_LABEL_DEVOPS": "דב-אופס וכלי עבודה",
+    "SKILLS_LABEL_DATABASES": "בסיסי נתונים",
     "SKILLS_LABEL_TESTING": "כלי בדיקה",
     "SKILLS_LABEL_OTHER": "מיומנויות נוספות",
 
@@ -92,6 +93,10 @@
     "SKILL_CICD": "תהליכי אינטגרציה ופריסה רציפים",
     "SKILL_KUBERNETES": "פלטפורמה לתזמור קונטיינרים בקנה מימדים",
     "SKILL_DOCKER": "פלטפורמת קונטיינרים לסביבות אחידות",
+    "SKILL_GITHUB_ACTIONS": "תהליכי CI/CD אוטומטיים ישירות ב-GitHub",
+    "SKILL_GITHUB_PAGES": "אחסון אתרים סטטיים ישירות ממאגרי GitHub",
+    "SKILL_CURSOR": "עורך קוד מבוסס AI לפיתוח חכם",
+    "SKILL_COPILOT": "עוזר תכנות מבוסס AI להשלמת קוד וסיוע",
 
     "SKILL_SELENIUM": "פריימוורק אוטומציה לבדיקות דפדפן",
     "SKILL_JAVA_AUTO": "אוטומציה לבדיקות באמצעות אקוסיסטם Java",
@@ -100,6 +105,10 @@
     "SKILL_UNREAL": "מנוע המשחקים של Epic Games ליצירת חוויות תלת-מימדיות",
     "SKILL_PHOTOSHOP": "כלי עריכת תמונות ועיצוב מוביל בתעשייה",
     "SKILL_ILLUSTRATOR": "עורך גרפיקה וקטורית ללוגואים ואילוסטרציות",
+
+    "SKILL_SQL": "שפת שאילתות מובנית לניהול נתונים רלציוניים",
+    "SKILL_MONGO": "בסיס נתונים NoSQL מסמכי למודלים גמישים",
+    "SKILL_MYSQL": "מערכת ניהול בסיסי נתונים רלציוניים פופולרית בקוד פתוח",
 
     "EDUCATION": "השכלה",
     "EDU_1": "פיתוח Web (לימוד עצמי) – JavaScript, Angular, Node.js",
