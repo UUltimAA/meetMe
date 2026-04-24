@@ -125,7 +125,14 @@
     "SERVICE_DESC": "Had the responsibility of maintaining the battalion's health routine and exercising medics.",
 
     "CHARACTER": "Character",
-    "CHARACTER_DESC": "Great people skill, high work ethics, responsible, dedicated and assertive."
+    "CHARACTER_DESC": "Great people skill, high work ethics, responsible, dedicated and assertive.",
+
+    "DOWNLOAD_BTN": "Download CV",
+    "DOWNLOAD_TITLE": "Confidentiality Agreement",
+    "DOWNLOAD_DISCLAIMER": "This CV is provided for your personal and professional evaluation purposes only. By downloading, you agree not to distribute, share, or disclose this document to any third party without the prior written consent of the author. Unauthorized distribution is strictly prohibited.",
+    "DOWNLOAD_AGREE": "I acknowledge and agree to the terms above.",
+    "DOWNLOAD_EN": "Download EN",
+    "DOWNLOAD_HE": "Download HE"
   },
   "PROJECTS": {
     "CAVE_TOUR": {
