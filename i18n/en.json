@@ -10,12 +10,12 @@
   "HOME": {
     "GREETING": "Hey, I'm",
     "NAME": "Orel Yaron",
-    "SUBTITLE": "Developer · Unreal Engine Creator · Gamer Extraordinaire",
-    "SUBTITLE_1": "Developer",
+    "SUBTITLE": "Full Stack Developer · Unreal Engine Creator · Gamer Extraordinaire",
+    "SUBTITLE_1": "Full Stack Developer",
     "SUBTITLE_2": "Unreal Engine Creator",
     "SUBTITLE_3": "Gamer Extraordinaire",
     "ABOUT_TITLE": "About Me",
-    "ABOUT_TEXT": "A passionate developer with a love for building immersive experiences. From crafting clean, modern web applications to designing worlds in Unreal Engine 5 — I bring ideas to life through code and creativity.",
+    "ABOUT_TEXT": "A passionate developer specializing in creating clean, modern web applications. With a love for building immersive experiences, from designing interfaces to crafting worlds in Unreal Engine 5 — I bring ideas to life through code and creativity.",
     "SHOWCASE_TITLE": "Unreal Engine 5 Showcase",
     "SHOWCASE_INTRO": "A selection of environments and mechanics I've built in UE5."
   },
