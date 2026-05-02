@@ -17,7 +17,9 @@
     "ABOUT_TITLE": "About Me",
     "ABOUT_TEXT": "A passionate developer specializing in creating clean, modern web applications. With a love for building immersive experiences, from designing interfaces to crafting worlds in Unreal Engine 5 — I bring ideas to life through code and creativity.",
     "SHOWCASE_TITLE": "Unreal Engine 5 Showcase",
-    "SHOWCASE_INTRO": "A selection of environments and mechanics I've built in UE5."
+    "SHOWCASE_INTRO": "A selection of environments and mechanics I've built in UE5.",
+    "PROG_SHOWCASE_TITLE": "Programming Projects",
+    "PROG_SHOWCASE_INTRO": "Web apps and tools I've built — from AI experiments to interactive experiences."
   },
   "CV": {
     "TITLE": "Curriculum Vitae",
@@ -147,6 +149,20 @@
       "TITLE": "Beach Environment",
       "DESCRIPTION": "A sunlit coastal scene with ray-traced reflections and Lumen global illumination."
     }
+  },
+  "PROG_PROJECTS": {
+    "COOKINATOR": {
+      "TITLE": "Cookinator",
+      "DESCRIPTION": "An Angular project for creating, cooking and searching recipes. A helpful tool built primarily for mobile."
+    }
+  },
+  "PROJECT_CARD": {
+    "NO_IMAGE": "Screenshot coming soon",
+    "VISIT_PROJECT": "Visit project ↗",
+    "WIP_TAG": "In Progress",
+    "WIP_TOOLTIP": "This project is in progress and going through changes constantly",
+    "MOBILE_ONLY_TAG": "Mobile Only",
+    "MOBILE_ONLY_TOOLTIP": "This project is currently designed only for mobile"
   },
   "TOOLS": {
     "TITLE": "Internal Tools",

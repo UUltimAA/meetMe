@@ -1,0 +1,11 @@
+[
+  {
+    "title": "PROG_PROJECTS.COOKINATOR.TITLE",
+    "description": "PROG_PROJECTS.COOKINATOR.DESCRIPTION",
+    "imageUrl": "assets/projects/cookinator.png",
+    "tags": ["AI", "HTML", "CSS", "Angular", "TypeScript"],
+    "externalUrl": "https://uultimaa.github.io/cookinator-web",
+    "workInProgress": true,
+    "mobileOnly": true
+  }
+]
