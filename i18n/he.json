@@ -154,6 +154,10 @@
     "COOKINATOR": {
       "TITLE": "קוקינייטור",
       "DESCRIPTION": "פרוייקט אנגולר ליצירה, בישול וחיפוש מתכונים. כלי עזר שבנוי תחילה למובייל."
+    },
+    "SHARDBORNE": {
+      "TITLE": "The Shardborne Syndrome",
+      "DESCRIPTION": "משחק רוגלייט קווסט בסגנון ישן שנבנה ב-Angular. אתה מתעורר ללא שם. העולם זוכר, אתה לא."
     }
   },
   "PROJECT_CARD": {
@@ -162,7 +166,11 @@
     "WIP_TAG": "בפיתוח",
     "WIP_TOOLTIP": "הפרויקט בפיתוח פעיל ועובר שינויים ושיפורים מתמידים",
     "MOBILE_ONLY_TAG": "מובייל בלבד",
-    "MOBILE_ONLY_TOOLTIP": "הפרויקט מעוצב כרגע למובייל בלבד"
+    "MOBILE_ONLY_TOOLTIP": "הפרויקט מעוצב כרגע למובייל בלבד",
+    "DESKTOP_ONLY_TAG": "דסקטופ בלבד",
+    "DESKTOP_ONLY_TOOLTIP": "הפרויקט מעוצב כרגע לדסקטופ בלבד",
+    "SHOW_MORE": "עוד",
+    "SHOW_LESS": "פחות"
   },
   "TOOLS": {
     "TITLE": "כלים פנימיים",

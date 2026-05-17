@@ -154,6 +154,10 @@
     "COOKINATOR": {
       "TITLE": "Cookinator",
       "DESCRIPTION": "An Angular project for creating, cooking and searching recipes. A helpful tool built primarily for mobile."
+    },
+    "SHARDBORNE": {
+      "TITLE": "The Shardborne Syndrome",
+      "DESCRIPTION": "An old-school roguelite quest game built in Angular. You wake without a name. The world remembers; you do not."
     }
   },
   "PROJECT_CARD": {
@@ -162,7 +166,11 @@
     "WIP_TAG": "In Progress",
     "WIP_TOOLTIP": "This project is in progress and going through changes constantly",
     "MOBILE_ONLY_TAG": "Mobile Only",
-    "MOBILE_ONLY_TOOLTIP": "This project is currently designed only for mobile"
+    "MOBILE_ONLY_TOOLTIP": "This project is currently designed only for mobile",
+    "DESKTOP_ONLY_TAG": "Desktop Only",
+    "DESKTOP_ONLY_TOOLTIP": "This project is currently designed only for desktop",
+    "SHOW_MORE": "Show more",
+    "SHOW_LESS": "Show less"
   },
   "TOOLS": {
     "TITLE": "Internal Tools",

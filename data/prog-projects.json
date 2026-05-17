@@ -7,5 +7,14 @@
     "externalUrl": "https://uultimaa.github.io/cookinator-web",
     "workInProgress": true,
     "mobileOnly": true
+  },
+  {
+    "title": "PROG_PROJECTS.SHARDBORNE.TITLE",
+    "description": "PROG_PROJECTS.SHARDBORNE.DESCRIPTION",
+    "imageUrl": "assets/projects/shardborne.png",
+    "tags": ["Roguelite", "HTML", "CSS", "Angular", "TypeScript"],
+    "externalUrl": "https://uultimaa.github.io/shardborne-syndrome-web/",
+    "workInProgress": true,
+    "desktopOnly": true
   }
 ]
